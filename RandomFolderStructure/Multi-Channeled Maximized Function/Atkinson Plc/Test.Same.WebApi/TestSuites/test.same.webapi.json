@@ -1,0 +1,22 @@
+{
+    "api": "test.same.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Multi-Channeled Maximized Function\\Atkinson Plc\\Test.Same.WebApi\\Collections\\test.same.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Specific Fill Congress",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Million Opportunity Culture",
+                "1 - Bad Environmental Stuff",
+                "2 - Wife Here Show"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

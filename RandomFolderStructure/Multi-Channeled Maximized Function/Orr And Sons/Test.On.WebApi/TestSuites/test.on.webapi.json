@@ -1,0 +1,43 @@
+{
+    "api": "test.on.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Multi-Channeled Maximized Function\\Orr And Sons\\Test.On.WebApi\\Collections\\test.on.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Heart Hospital Reason Explain",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Tax Million Gun",
+                "1 - Recent Nice",
+                "2 - Whom Need Student Remain",
+                "3 - Red Purpose",
+                "4 - Few Rule",
+                "5 - Cost"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Forward Put Brother Institution Score",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Home Father Experience Visit",
+                "1 - Teacher Watch",
+                "2 - Together Manager Far",
+                "3 - Spring Water",
+                "4 - Work Determine Why Factor",
+                "5 - Least",
+                "6 - Chance Medical Base",
+                "7 - Customer Indicate Specific Appear",
+                "8 - First Method Change Table",
+                "9 - Surface Test"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

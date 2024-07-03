@@ -1,0 +1,69 @@
+{
+    "api": "test.five.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Horizontal System-Worthy Structure\\Robinson-Gates\\Test.Five.WebApi\\Collections\\test.five.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Simply Free Home",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Police",
+                "1 - Feel Six",
+                "2 - Car Member Court Near",
+                "3 - Tend South",
+                "4 - Everybody Dog Suggest",
+                "5 - Discover Its Thank",
+                "6 - Short Book",
+                "7 - Only Single Particularly",
+                "8 - Wish Believe Color",
+                "9 - Bad Fund"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Marriage American Plant Race",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Resource Growth",
+                "1 - Exist Both",
+                "2 - Thus Sort Drop Life",
+                "3 - Land Main Animal",
+                "4 - Tv Happy",
+                "5 - On Collection",
+                "6 - Central",
+                "7 - Authority Movie Economy",
+                "8 - Respond Parent Security"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "All Eight Painting",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Throughout Scene",
+                "1 - Prove Success Not"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Knowledge Wind Student Scientist Computer Truth",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Possible Security Idea",
+                "1 - Care His",
+                "2 - Follow",
+                "3 - Marriage Move Congress",
+                "4 - Ahead Do"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

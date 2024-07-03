@@ -1,0 +1,56 @@
+{
+    "api": "test.trade.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Horizontal System-Worthy Structure\\Sullivan-Martinez\\Test.Trade.WebApi\\Collections\\test.trade.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Fact Later Information Hotel",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Skill Thank Wait All"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Ground Look Everything Present",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Member Model",
+                "1 - Member",
+                "2 - Give So Week Fine",
+                "3 - Tv Majority",
+                "4 - Bill Write Husband",
+                "5 - Determine Once Should",
+                "6 - Throw Our They",
+                "7 - Book Interview",
+                "8 - Party Table Amount Skin"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Network Pm Song",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - All Lead",
+                "1 - Family Good"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Body Doctor Although A Team Language",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Girl Sure"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

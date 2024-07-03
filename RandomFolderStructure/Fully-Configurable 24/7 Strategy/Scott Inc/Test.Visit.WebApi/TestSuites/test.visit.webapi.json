@@ -1,0 +1,62 @@
+{
+    "api": "test.visit.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Fully-Configurable 24/7 Strategy\\Scott Inc\\Test.Visit.WebApi\\Collections\\test.visit.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "International Our Pretty",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Issue Ability Second",
+                "1 - Require Newspaper",
+                "2 - Want War Great Matter",
+                "3 - Write Billion",
+                "4 - Phone Director",
+                "5 - Culture Box",
+                "6 - Individual Six",
+                "7 - Picture Miss",
+                "8 - Peace Record Practice"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Worker Miss Close",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Vote Happen Few",
+                "1 - Table Nor Wind",
+                "2 - Skin Know",
+                "3 - Though Experience Girl Dog",
+                "4 - Party Ground College",
+                "5 - Prepare Time",
+                "6 - Beat Take Gas",
+                "7 - Chance Adult Include",
+                "8 - Local Project Show"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Lead Compare Piece Factor",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Sport Clear Toward",
+                "1 - Head Step American Environment",
+                "2 - Senior Response",
+                "3 - Strong Police Itself",
+                "4 - Local Brother",
+                "5 - Military Strategy",
+                "6 - Return Evidence Child",
+                "7 - During Whatever",
+                "8 - School Sing Democrat"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

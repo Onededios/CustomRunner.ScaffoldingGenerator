@@ -1,0 +1,38 @@
+{
+    "api": "test.must.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Horizontal System-Worthy Structure\\Anderson-Adams\\Test.Must.WebApi\\Collections\\test.must.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Result Word Doctor",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Industry Agency",
+                "1 - Data Per Speak",
+                "2 - Guess",
+                "3 - Such Let",
+                "4 - Happen Camera",
+                "5 - Sister Production",
+                "6 - Will",
+                "7 - Year Doctor Hot",
+                "8 - Chair Happen",
+                "9 - Bed"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Under Season Win Article Apply",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Ask Movement Heart"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

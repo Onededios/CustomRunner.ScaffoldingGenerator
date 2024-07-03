@@ -1,0 +1,44 @@
+{
+    "api": "test.use.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Wilson Group\\Test.Use.WebApi\\Collections\\test.use.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Continue Effect Body None Because",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - His Training",
+                "1 - Character Form Tonight",
+                "2 - Structure Avoid When",
+                "3 - Up Change",
+                "4 - Society Member Cup",
+                "5 - Discussion Like Behind",
+                "6 - Moment Southern Personal",
+                "7 - That Experience Various Whom"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Gas Instead Reflect Start According",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Green Condition",
+                "1 - Alone Act",
+                "2 - Accept Center Send",
+                "3 - Fall Tell Election Part",
+                "4 - Evidence Development Baby Top",
+                "5 - Accept Center Send",
+                "6 - Project Feel Bank",
+                "7 - Person Effort Decide",
+                "8 - Me Wonder Expect Rather"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

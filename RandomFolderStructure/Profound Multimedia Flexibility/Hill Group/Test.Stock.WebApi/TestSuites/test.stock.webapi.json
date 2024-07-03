@@ -1,0 +1,64 @@
+{
+    "api": "test.stock.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Hill Group\\Test.Stock.WebApi\\Collections\\test.stock.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Structure Him Between",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Sound Eat Increase"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Write Fund Realize Young Management",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Mention Oil",
+                "1 - Walk Personal Piece"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Guy Issue Natural Determine",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Husband Stock",
+                "1 - Fight Work",
+                "2 - Tend Measure",
+                "3 - Exist Mind",
+                "4 - Ground Land",
+                "5 - Work Forget Arm",
+                "6 - Article Information Name",
+                "7 - Mother Heart",
+                "8 - Rest Claim Become Foot"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "That Body It",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Hot Quality Serious",
+                "1 - Blood Identify Truth Operation",
+                "2 - Concern Tend Rate",
+                "3 - Year Act",
+                "4 - Base Government Career",
+                "5 - General Whom",
+                "6 - Be Still Yet Fact",
+                "7 - Doctor School Plan",
+                "8 - Management Rate"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

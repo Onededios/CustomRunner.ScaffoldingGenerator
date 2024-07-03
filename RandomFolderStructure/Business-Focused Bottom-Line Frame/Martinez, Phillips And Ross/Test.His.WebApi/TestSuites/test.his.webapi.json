@@ -1,0 +1,74 @@
+{
+    "api": "test.his.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Martinez, Phillips And Ross\\Test.His.WebApi\\Collections\\test.his.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Really Exist Husband",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Friend Bag",
+                "1 - Future Pass Source Indeed",
+                "2 - Score Red Share",
+                "3 - Pretty Chair",
+                "4 - Citizen"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Night Sure Each",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Itself Eat",
+                "1 - Wife Design Large",
+                "2 - Owner Leader",
+                "3 - Seven Successful Sort",
+                "4 - Mother Learn Decade",
+                "5 - Health Size Fact",
+                "6 - Exist Look Amount",
+                "7 - Fish Range Financial Enjoy",
+                "8 - Marriage Move Congress"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Cost Too Magazine Person Community",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Program Glass",
+                "1 - Include Look",
+                "2 - Poor",
+                "3 - Identify Figure Window",
+                "4 - South Relationship",
+                "5 - North History",
+                "6 - Short Heart Hope",
+                "7 - Front Present Create",
+                "8 - Stage Rather",
+                "9 - Particular Worry Issue"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Marriage Indicate Answer Call Billion Reach",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Others Race",
+                "1 - Brother Myself Remember",
+                "2 - Throw Top Son",
+                "3 - Least Power",
+                "4 - Floor Energy",
+                "5 - Technology They Require",
+                "6 - Always Seem Throw"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

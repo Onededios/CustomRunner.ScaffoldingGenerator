@@ -1,0 +1,21 @@
+{
+    "api": "test.southern.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Fully-Configurable 24/7 Strategy\\Schmidt-Booth\\Test.Southern.WebApi\\Collections\\test.southern.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Like Indicate Cup Effect",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Which Second",
+                "1 - Field Respond Join"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

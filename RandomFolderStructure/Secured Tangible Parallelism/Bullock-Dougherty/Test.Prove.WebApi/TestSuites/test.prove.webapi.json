@@ -1,0 +1,53 @@
+{
+    "api": "test.prove.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Secured Tangible Parallelism\\Bullock-Dougherty\\Test.Prove.WebApi\\Collections\\test.prove.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Participant Federal Rate Seat Sing Mother",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - My",
+                "1 - Building Remain",
+                "2 - Six Present",
+                "3 - Explain Drug Protect",
+                "4 - Floor Week"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Everyone Cost Benefit Family Reality Specific",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Family Increase Effect",
+                "1 - Former Realize Of",
+                "2 - Local Chair",
+                "3 - Professor Report Bank"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Interview Science Sport Talk President More",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Peace Four Minute Land",
+                "1 - Total Leave",
+                "2 - Lawyer Stock",
+                "3 - Card American Film",
+                "4 - Happy",
+                "5 - Majority Such Region",
+                "6 - Case Particular",
+                "7 - Position This",
+                "8 - Suggest Hold"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

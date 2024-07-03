@@ -1,0 +1,63 @@
+{
+    "api": "test.military.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Secured Tangible Parallelism\\Bullock-Dougherty\\Test.Military.WebApi\\Collections\\test.military.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Per Finish Fact Nor Response",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Song Majority Agreement",
+                "1 - Few Rule",
+                "2 - Region If Need",
+                "3 - Act Do Film",
+                "4 - Open Face",
+                "5 - Future Can High",
+                "6 - Blood Stand Thus",
+                "7 - Fill Change"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Child Good Choice Side Dream",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Between Very",
+                "1 - Process How",
+                "2 - Process Century",
+                "3 - Fine Large",
+                "4 - Too Apply Door",
+                "5 - Public Recent Best",
+                "6 - Author Several",
+                "7 - Citizen",
+                "8 - Candidate Leg",
+                "9 - Compare Career Radio"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Gas Black Few World",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Industry Race",
+                "1 - Town War Eye",
+                "2 - Employee Else",
+                "3 - Glass Involve Actually",
+                "4 - Half Might",
+                "5 - Might Determine",
+                "6 - Newspaper Crime",
+                "7 - Prevent Own Finally",
+                "8 - Light Member Best Hold",
+                "9 - Practice Look Wide"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

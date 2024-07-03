@@ -1,0 +1,51 @@
+{
+    "api": "test.purpose.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Shaw-Sparks\\Test.Purpose.WebApi\\Collections\\test.purpose.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Kid Key Worker",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Everyone Cost Benefit Family",
+                "1 - Education Fight Pm",
+                "2 - Develop Whom Create"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "This Thus Sea Floor",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Same World Let By",
+                "1 - Ahead Everyone",
+                "2 - Charge Beyond Sometimes",
+                "3 - Number Cup"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Often Suddenly Me Society Social Goal",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Give Operation Sign",
+                "1 - Operation Within Financial Together",
+                "2 - Community Much Economy",
+                "3 - Morning Total Meet",
+                "4 - Concern Tend Rate",
+                "5 - Yet Consumer Film",
+                "6 - Green Dinner",
+                "7 - Suddenly Media Local",
+                "8 - Recognize Certainly"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

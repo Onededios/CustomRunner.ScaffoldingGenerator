@@ -1,0 +1,26 @@
+{
+    "api": "test.some.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Ramos, Mason And Stewart\\Test.Some.WebApi\\Collections\\test.some.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Doctor Subject Anything Science Focus Point",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Child Charge Account",
+                "1 - Issue Baby Firm",
+                "2 - Case Quality Price",
+                "3 - Us Practice Within",
+                "4 - Theory System",
+                "5 - First Class Community",
+                "6 - She Create"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

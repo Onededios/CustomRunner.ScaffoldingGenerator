@@ -1,0 +1,63 @@
+{
+    "api": "test.evidence.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Secured Tangible Parallelism\\Case Group\\Test.Evidence.WebApi\\Collections\\test.evidence.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Forward Democratic Project One Necessary Possible",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Law Certain",
+                "1 - Sing Garden",
+                "2 - Benefit Under",
+                "3 - Hand Teacher"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "I Option Few",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Tv Majority",
+                "1 - Authority Movie Economy",
+                "2 - Tv Remain Before",
+                "3 - Pick Drive"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Cold Cell Year Task Quickly Test",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Together Speech",
+                "1 - Pressure Remember"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Believe Sport Third Decide",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Contain Member The Speech",
+                "1 - Significant",
+                "2 - Finish Voice Manage",
+                "3 - Action Walk Bank",
+                "4 - Decide American",
+                "5 - Degree",
+                "6 - Hard Single",
+                "7 - Fish Political Across",
+                "8 - Consider Describe Trade",
+                "9 - Decade Available"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "api": "test.who.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Miller Ltd\\Test.Who.WebApi\\Collections\\test.who.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Care Spring Everything Any Administration Family",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Interest Service Effort Industry",
+                "1 - View Let Back",
+                "2 - Firm Amount",
+                "3 - Real Weight Score",
+                "4 - Foot College Behavior Stuff",
+                "5 - Only See",
+                "6 - Ball",
+                "7 - Cut Until",
+                "8 - Parent Discover Gas",
+                "9 - Today Bit Ask"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

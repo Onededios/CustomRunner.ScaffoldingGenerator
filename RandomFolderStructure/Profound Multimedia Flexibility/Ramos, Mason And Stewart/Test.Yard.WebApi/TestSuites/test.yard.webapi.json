@@ -1,0 +1,35 @@
+{
+    "api": "test.yard.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Ramos, Mason And Stewart\\Test.Yard.WebApi\\Collections\\test.yard.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Focus Reason Will Fall Usually Open",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - What State Throw",
+                "1 - Fast Edge Bit",
+                "2 - Everyone Finally Concern"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Professional Power Defense Act",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - In Opportunity Trial",
+                "1 - Follow Positive Reason Environment",
+                "2 - Send Newspaper Choice",
+                "3 - Middle Fact",
+                "4 - Step"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

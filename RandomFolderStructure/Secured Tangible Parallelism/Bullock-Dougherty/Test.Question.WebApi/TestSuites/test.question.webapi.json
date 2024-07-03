@@ -1,0 +1,46 @@
+{
+    "api": "test.question.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Secured Tangible Parallelism\\Bullock-Dougherty\\Test.Question.WebApi\\Collections\\test.question.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Eye Into Every",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Color Late Behind"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Really Reach Person Board Make Than",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Attention Consider",
+                "1 - Drive Hospital Set",
+                "2 - Benefit"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "There Community Air Room",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Find First",
+                "1 - Live Many",
+                "2 - Machine Ready",
+                "3 - Message Increase",
+                "4 - Themselves Anything",
+                "5 - Dark Television",
+                "6 - Side Concern"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

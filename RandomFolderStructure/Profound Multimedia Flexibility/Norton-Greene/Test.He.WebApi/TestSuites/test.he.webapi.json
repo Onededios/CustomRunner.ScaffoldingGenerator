@@ -1,0 +1,54 @@
+{
+    "api": "test.he.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Norton-Greene\\Test.He.WebApi\\Collections\\test.he.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "During Smile Across Nearly Whom Down",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Establish",
+                "1 - Dark Nothing Same",
+                "2 - Expert So Simply",
+                "3 - Understand While",
+                "4 - Night Story"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Level Detail Specific",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Article Whatever",
+                "1 - Ask Growth",
+                "2 - Character",
+                "3 - For Skin",
+                "4 - Pm Floor",
+                "5 - Significant Kitchen Animal",
+                "6 - Million Network",
+                "7 - Today Individual Especially",
+                "8 - Air Candidate Operation Position",
+                "9 - Him Red Agree"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Who Or Owner Can Say Discussion",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Security Major",
+                "1 - Resource Test Walk Final",
+                "2 - Shoulder Such Address",
+                "3 - Team Music Evidence"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

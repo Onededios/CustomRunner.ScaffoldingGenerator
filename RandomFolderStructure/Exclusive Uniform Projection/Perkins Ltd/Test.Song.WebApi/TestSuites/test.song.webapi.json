@@ -1,0 +1,67 @@
+{
+    "api": "test.song.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Exclusive Uniform Projection\\Perkins Ltd\\Test.Song.WebApi\\Collections\\test.song.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "My Mean Mean Far Effort Old",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Us Someone",
+                "1 - Chair Next Address",
+                "2 - Option Cover Local",
+                "3 - Many Smile",
+                "4 - Your Example Various Hand",
+                "5 - Between Mind",
+                "6 - Conference Politics",
+                "7 - Effect Security Deep"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Defense Word Better",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Pressure Against",
+                "1 - Turn Even Address",
+                "2 - Get And Always"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Identify Place Standard",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Week Yeah",
+                "1 - Push Item",
+                "2 - Quite Student",
+                "3 - Spend Price Her",
+                "4 - Guy Issue",
+                "5 - Include See",
+                "6 - Piece Until What Position",
+                "7 - North History",
+                "8 - Popular Democratic"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Sit Skill Improve Enter",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Political On Rest",
+                "1 - Memory View",
+                "2 - Market Development Ability",
+                "3 - In Table Drop"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

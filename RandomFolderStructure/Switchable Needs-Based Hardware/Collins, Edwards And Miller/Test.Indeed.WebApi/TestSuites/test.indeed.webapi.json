@@ -1,0 +1,56 @@
+{
+    "api": "test.indeed.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Switchable Needs-Based Hardware\\Collins, Edwards And Miller\\Test.Indeed.WebApi\\Collections\\test.indeed.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Benefit Country President Will",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Exist Look Amount",
+                "1 - Former Miss",
+                "2 - Able Sometimes",
+                "3 - While Power Age",
+                "4 - Knowledge Tend Direction Or",
+                "5 - Meeting Toward Lot Trouble",
+                "6 - As",
+                "7 - Without Find"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Community Fight Firm Whose Party Whole",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Safe Risk Rock",
+                "1 - Music Its",
+                "2 - Idea Through Order"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "With Indeed Image Structure Cause",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Bank Scene Win",
+                "1 - Medical Despite",
+                "2 - Everyone Within",
+                "3 - Task Music Professional",
+                "4 - Unit Environmental",
+                "5 - Water Able Price",
+                "6 - Phone Quickly Very",
+                "7 - Turn Until",
+                "8 - Head Respond",
+                "9 - Big Chair Sister"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

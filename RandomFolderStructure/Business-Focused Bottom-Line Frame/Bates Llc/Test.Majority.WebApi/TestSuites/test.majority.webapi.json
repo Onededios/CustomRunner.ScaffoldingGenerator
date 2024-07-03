@@ -1,0 +1,28 @@
+{
+    "api": "test.majority.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Bates Llc\\Test.Majority.WebApi\\Collections\\test.majority.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Dream Race Between",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Score Weight",
+                "1 - Animal Simple",
+                "2 - Bar Here",
+                "3 - Every Throughout Why Choice",
+                "4 - Save Same Else",
+                "5 - Key",
+                "6 - Organization Make",
+                "7 - Question Market Free",
+                "8 - Success Whole House"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

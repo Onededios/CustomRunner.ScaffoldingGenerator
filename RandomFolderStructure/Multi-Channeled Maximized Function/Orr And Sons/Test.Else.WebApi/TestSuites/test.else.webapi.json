@@ -1,0 +1,30 @@
+{
+    "api": "test.else.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Multi-Channeled Maximized Function\\Orr And Sons\\Test.Else.WebApi\\Collections\\test.else.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Machine Animal Difficult Over Bring",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Interesting Partner Civil"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Sort Front Stop",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Movie Let",
+                "1 - Dark Each"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

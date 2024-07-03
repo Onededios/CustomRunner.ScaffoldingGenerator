@@ -1,0 +1,42 @@
+{
+    "api": "test.open.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Horizontal System-Worthy Structure\\Kirk-Jones\\Test.Open.WebApi\\Collections\\test.open.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Significant Common Room State",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Sea Tv Garden",
+                "1 - Sure Certainly",
+                "2 - Game Race Material",
+                "3 - Price Woman",
+                "4 - Account Mother",
+                "5 - Specific",
+                "6 - Reality Only Plan",
+                "7 - Level Vote",
+                "8 - We Official Eight",
+                "9 - Rate Open"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Reality Everyone Son Third Behind Lose",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Model Price",
+                "1 - His Tell",
+                "2 - Party Many Write",
+                "3 - Meeting Look",
+                "4 - Score Nation"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

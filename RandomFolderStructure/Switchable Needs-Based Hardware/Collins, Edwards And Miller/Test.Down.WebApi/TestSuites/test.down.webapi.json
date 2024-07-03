@@ -1,0 +1,45 @@
+{
+    "api": "test.down.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Switchable Needs-Based Hardware\\Collins, Edwards And Miller\\Test.Down.WebApi\\Collections\\test.down.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Sit Example Education",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Day Music",
+                "1 - Pm Again",
+                "2 - Feeling Successful Beat",
+                "3 - Market",
+                "4 - Stock Several",
+                "5 - Consumer Statement Few",
+                "6 - Knowledge Treat Tax Billion",
+                "7 - Serve End",
+                "8 - Glass Force"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Prove Church With Boy Kid",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Traditional Someone Policy",
+                "1 - Station Amount",
+                "2 - Represent Down Condition",
+                "3 - Staff Official Practice",
+                "4 - Clearly Discussion Church Government",
+                "5 - Visit Hope",
+                "6 - Number Case Sell",
+                "7 - Fear Morning Student",
+                "8 - Table Party Author Type"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

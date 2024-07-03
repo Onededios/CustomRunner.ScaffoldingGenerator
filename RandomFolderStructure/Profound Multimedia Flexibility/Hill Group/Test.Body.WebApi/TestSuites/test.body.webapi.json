@@ -1,0 +1,41 @@
+{
+    "api": "test.body.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Hill Group\\Test.Body.WebApi\\Collections\\test.body.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Drop Road Central Better Interesting",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Really Rest Your",
+                "1 - Right Back Attorney",
+                "2 - You The",
+                "3 - Once Able Right",
+                "4 - Ten"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Hour Response Between",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Long Hundred",
+                "1 - Knowledge Difficult",
+                "2 - Activity Star",
+                "3 - Record Staff",
+                "4 - Treatment Certainly",
+                "5 - Tree Single Success",
+                "6 - Treat Military Name",
+                "7 - Stock House",
+                "8 - Especially Through Story"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

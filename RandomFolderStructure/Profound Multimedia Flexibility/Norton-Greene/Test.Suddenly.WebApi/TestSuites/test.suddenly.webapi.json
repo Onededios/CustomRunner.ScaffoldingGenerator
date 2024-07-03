@@ -1,0 +1,37 @@
+{
+    "api": "test.suddenly.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Norton-Greene\\Test.Suddenly.WebApi\\Collections\\test.suddenly.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Seem History Participant",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - They Step All",
+                "1 - Relate Able",
+                "2 - Rich Sometimes Cultural",
+                "3 - Though Series",
+                "4 - Line About Western",
+                "5 - Follow Section Inside",
+                "6 - Knowledge Tend Direction Or",
+                "7 - Support Call Hair",
+                "8 - Sister"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Station Defense Industry",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Position Tough Owner"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

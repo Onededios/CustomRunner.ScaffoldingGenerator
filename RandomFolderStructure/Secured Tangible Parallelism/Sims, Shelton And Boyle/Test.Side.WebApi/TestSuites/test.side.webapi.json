@@ -1,0 +1,65 @@
+{
+    "api": "test.side.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Secured Tangible Parallelism\\Sims, Shelton And Boyle\\Test.Side.WebApi\\Collections\\test.side.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Conference Six Much Within",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Three Other Per",
+                "1 - Skill Him Reduce Answer",
+                "2 - Bad Term",
+                "3 - Arm Day"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Statement Decision Six",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Or Finally Charge",
+                "1 - Happy Imagine Why",
+                "2 - Both New Past",
+                "3 - Represent Student Language",
+                "4 - Unit Certain",
+                "5 - Radio Camera Thought Gun",
+                "6 - Laugh Either Son",
+                "7 - That Clearly"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Forward Accept Official Role Agreement",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Couple Between",
+                "1 - Treatment"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Interview Almost Produce Because Participant",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Understand By",
+                "1 - Finish Character A Billion",
+                "2 - Production",
+                "3 - Marriage Seat Drop",
+                "4 - Floor Wrong Go Effort",
+                "5 - Owner Relationship Prepare Theory",
+                "6 - Physical Small Arrive",
+                "7 - Pressure Fund Company"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

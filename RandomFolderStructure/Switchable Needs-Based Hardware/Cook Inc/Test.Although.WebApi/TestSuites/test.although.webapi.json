@@ -1,0 +1,50 @@
+{
+    "api": "test.although.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Switchable Needs-Based Hardware\\Cook Inc\\Test.Although.WebApi\\Collections\\test.although.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Meet Try Prepare Around Subject Pick",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Population Speak This",
+                "1 - Do Require West",
+                "2 - Professor Appear Community Minute"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Chair Happen Several Law",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Finish Newspaper",
+                "1 - Two Though Case",
+                "2 - Partner Society Natural",
+                "3 - Development Likely Here",
+                "4 - Sort Worry Serve",
+                "5 - Skin Finish",
+                "6 - Star Foreign",
+                "7 - Include Look",
+                "8 - Can Save"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Opportunity Whose Question",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Instead Attorney",
+                "1 - Doctor Field Store",
+                "2 - Talk Government"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

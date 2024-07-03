@@ -1,0 +1,51 @@
+{
+    "api": "test.such.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Operative Object-Oriented Website\\Daniels, Gordon And Gordon\\Test.Such.WebApi\\Collections\\test.such.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Box Charge Century Still",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Before Remember",
+                "1 - Store Coach New",
+                "2 - Case Day",
+                "3 - Although Word Should"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Series Fight Girl May",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Past Magazine Debate",
+                "1 - Discuss Term",
+                "2 - Care Least",
+                "3 - Glass Strong",
+                "4 - City",
+                "5 - Staff Likely",
+                "6 - Help Prevent Instead",
+                "7 - Company Hand Task Budget",
+                "8 - Far Soldier"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Heavy Him Go",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Director Thank Debate",
+                "1 - Material Cultural",
+                "2 - Mission Your Begin"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

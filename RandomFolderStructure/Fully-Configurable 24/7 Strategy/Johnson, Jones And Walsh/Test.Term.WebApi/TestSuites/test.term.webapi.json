@@ -1,0 +1,61 @@
+{
+    "api": "test.term.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Fully-Configurable 24/7 Strategy\\Johnson, Jones And Walsh\\Test.Term.WebApi\\Collections\\test.term.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Bad Interest Leader Pattern Game",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Relationship Century Material Pass",
+                "1 - Stock Something",
+                "2 - Structure Now"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Would Place Require",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Something Writer",
+                "1 - Stop",
+                "2 - Former Whole"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Beat Take Gas Difference Store Bad",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Answer Ever Democrat",
+                "1 - Cut Feel",
+                "2 - Mother Represent",
+                "3 - Arrive Chair",
+                "4 - Form Bring Ground",
+                "5 - Magazine Board Them",
+                "6 - Family Several Wall"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Kitchen However Focus Could",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Direction Tree",
+                "1 - Name",
+                "2 - Move",
+                "3 - Old Fund Member",
+                "4 - Investment Family"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

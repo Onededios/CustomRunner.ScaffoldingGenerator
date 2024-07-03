@@ -1,0 +1,43 @@
+{
+    "api": "test.spend.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Fully-Configurable 24/7 Strategy\\Johnson, Jones And Walsh\\Test.Spend.WebApi\\Collections\\test.spend.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Prepare Player Option Even Meet Note",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Owner Class",
+                "1 - Window Money",
+                "2 - Source Dream Huge",
+                "3 - Blue Money",
+                "4 - Include",
+                "5 - Congress Late",
+                "6 - Type Trade Gun",
+                "7 - Language Reduce"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Throw Behind Almost Writer Stage",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Defense Attorney",
+                "1 - Space Manage",
+                "2 - Partner Mind",
+                "3 - For Democratic",
+                "4 - Fact Start",
+                "5 - Everybody Image",
+                "6 - Read Strategy",
+                "7 - Event Agree Second"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "api": "test.quite.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Miller Ltd\\Test.Quite.WebApi\\Collections\\test.quite.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "South Strong Message Month Purpose Personal",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Hundred Low",
+                "1 - Resource Certain Save",
+                "2 - Certain Story Bring",
+                "3 - Themselves",
+                "4 - Study Money Company",
+                "5 - Yard"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Father Social American Education",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Although Pattern International",
+                "1 - Campaign Property Break",
+                "2 - Black Wind",
+                "3 - Speak Avoid Least",
+                "4 - Finally Professor Everything",
+                "5 - Sense Quality Direction",
+                "6 - Knowledge Tend Direction Or",
+                "7 - Politics Remain",
+                "8 - Meet Sometimes Enter"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Mother Imagine Certainly Pretty World As",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Tv Fear Seek Scene"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

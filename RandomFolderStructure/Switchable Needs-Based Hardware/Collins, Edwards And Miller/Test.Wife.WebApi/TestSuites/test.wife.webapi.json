@@ -1,0 +1,41 @@
+{
+    "api": "test.wife.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Switchable Needs-Based Hardware\\Collins, Edwards And Miller\\Test.Wife.WebApi\\Collections\\test.wife.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Section Service Opportunity",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Organization Quickly Wife",
+                "1 - Be Still Yet Fact",
+                "2 - Tree Speak Travel",
+                "3 - Former Standard Which",
+                "4 - Look Number",
+                "5 - Party Century Under",
+                "6 - Seem"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Front None Direction Parent Society Significant",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Material Book",
+                "1 - Simple Provide Defense",
+                "2 - During Whatever",
+                "3 - Firm Amount",
+                "4 - Leg Hope Training",
+                "5 - Reduce Land Home",
+                "6 - Very Yeah Support"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

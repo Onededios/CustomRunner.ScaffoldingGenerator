@@ -1,0 +1,60 @@
+{
+    "api": "test.west.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Horizontal System-Worthy Structure\\Anderson-Adams\\Test.West.WebApi\\Collections\\test.west.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Country Federal Whose",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Future Line Well",
+                "1 - Better Help",
+                "2 - Camera Sister Hold Sister",
+                "3 - Money Increase",
+                "4 - Himself Interview Positive Six",
+                "5 - Choose"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Maybe Once Theory Quality Difference I",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Meeting Risk Agency",
+                "1 - Season Want Watch",
+                "2 - Arm Old Different",
+                "3 - Fear",
+                "4 - Successful Senior"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Pretty Administration Nature Plant Admit Wonder",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Financial Task Long",
+                "1 - Company Success",
+                "2 - Know So"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Camera Thus Single Room",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Series Participant",
+                "1 - Cause South",
+                "2 - Development Common"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

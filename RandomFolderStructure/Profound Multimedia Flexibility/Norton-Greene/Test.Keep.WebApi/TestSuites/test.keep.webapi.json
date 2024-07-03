@@ -1,0 +1,69 @@
+{
+    "api": "test.keep.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Profound Multimedia Flexibility\\Norton-Greene\\Test.Keep.WebApi\\Collections\\test.keep.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Occur Factor Now May Drive",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Catch Admit",
+                "1 - Small Take Radio",
+                "2 - Enough Language",
+                "3 - Art Try Affect",
+                "4 - Join Magazine Whose",
+                "5 - Consider Official Customer",
+                "6 - Stuff Need",
+                "7 - What Throughout"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Say Environment Side Fall Section",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Maybe Society Believe",
+                "1 - Guy Picture Role",
+                "2 - Air Mind Soldier"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Stop Bed Prepare Box Wrong Since",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Level Radio Attack",
+                "1 - Strong Act",
+                "2 - Last Order",
+                "3 - Capital",
+                "4 - Mean Human"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Share Discuss Imagine Focus",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - All Political Open",
+                "1 - Catch Police Point",
+                "2 - Way Health Feeling",
+                "3 - Doctor Respond Positive",
+                "4 - Friend Capital Future",
+                "5 - Key Year Measure",
+                "6 - Bar Really",
+                "7 - Like Discuss Miss",
+                "8 - Quite Kid",
+                "9 - Small Audience Sometimes Be"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

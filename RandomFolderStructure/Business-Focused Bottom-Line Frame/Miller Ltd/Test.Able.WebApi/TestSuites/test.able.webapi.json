@@ -1,0 +1,72 @@
+{
+    "api": "test.able.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Miller Ltd\\Test.Able.WebApi\\Collections\\test.able.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Nation Right Conference Form Majority Successful",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Which Face Issue",
+                "1 - Speech General She",
+                "2 - Likely Someone"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Now Beautiful Fear Kitchen",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - On Religious Political",
+                "1 - Tend Score",
+                "2 - Time Along",
+                "3 - Late Western Some",
+                "4 - Concern",
+                "5 - Common Cost Let Draw"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Generation Establish Understand",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Establish",
+                "1 - Every Account",
+                "2 - Scene",
+                "3 - Least",
+                "4 - Position Like",
+                "5 - Around Red",
+                "6 - Price College Must",
+                "7 - Economic Marriage",
+                "8 - Instead Question",
+                "9 - Bit Office Friend Level"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Might Painting Radio",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Difficult Contain",
+                "1 - Carry Pass Free Table",
+                "2 - Without Find",
+                "3 - Cost Several",
+                "4 - He Themselves Young",
+                "5 - Yourself Brother None",
+                "6 - Western",
+                "7 - Your Southern",
+                "8 - Such Ground",
+                "9 - And Themselves Him Still"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

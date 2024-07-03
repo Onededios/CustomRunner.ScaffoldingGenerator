@@ -1,0 +1,20 @@
+{
+    "api": "test.congress.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Secured Tangible Parallelism\\Sims, Shelton And Boyle\\Test.Congress.WebApi\\Collections\\test.congress.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Hair Determine Protect Might Apply Whose",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Different Rate Source"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

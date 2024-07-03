@@ -1,0 +1,24 @@
+{
+    "api": "test.career.webapi",
+    "collection_path": "C:\\repos\\CustomRunner.ScaffoldingGenerator\\RandomFolderStructure\\Business-Focused Bottom-Line Frame\\Hammond-Rasmussen\\Test.Career.WebApi\\Collections\\test.career.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Perhaps Leader Act Remain",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Republican Seat",
+                "1 - Player Certain",
+                "2 - Candidate National",
+                "3 - Business Save New",
+                "4 - Most"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}
