@@ -1,0 +1,74 @@
+{
+    "api": "test.challenge.webapi",
+    "collection_path": "RandomFolderStructure/Monitored 4Thgeneration Model/Little, Morgan And Horn/Test.Challenge.WebApi/Collections/test.challenge.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Teacher Remember Minute",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Political Rest How Fish",
+                "1 - Month Describe Laugh",
+                "2 - Table",
+                "3 - Number It",
+                "4 - Win Government Account",
+                "5 - Recently Minute",
+                "6 - Move Before Fight",
+                "7 - Stand Road",
+                "8 - Time Friend On",
+                "9 - Record Large"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Mother Heart Deep Opportunity",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Provide Wife Whose Save",
+                "1 - As Onto Relate",
+                "2 - Toward New",
+                "3 - Health Science Figure Himself",
+                "4 - Author Purpose Tend Could",
+                "5 - Nearly Catch"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Less Message Herself Never Grow",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Even Four One Future",
+                "1 - Position Sign Large",
+                "2 - Impact Try",
+                "3 - After Candidate Truth",
+                "4 - Material Year",
+                "5 - Ahead Everyone",
+                "6 - Find Student Election"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Science Country Resource Fact Only",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Natural Change Treat",
+                "1 - Space Particularly Perform",
+                "2 - Hot Money Usually",
+                "3 - Wish Recognize Mother",
+                "4 - Ball Bill Raise",
+                "5 - Finish Arrive Music",
+                "6 - Only Already Wide",
+                "7 - Drug Sort"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "api": "test.try.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Harrison-Delgado/Test.Try.WebApi/Collections/test.try.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Continue Upon Huge Remain Strategy Thank",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Life Focus",
+                "1 - Camera Certain Year",
+                "2 - Employee Me",
+                "3 - Program Laugh",
+                "4 - Pick Nothing"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "More Conference Explain Dark Peace Senior",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Some Model Good",
+                "1 - Player Republican Song Defense",
+                "2 - Fish Bed Think",
+                "3 - Rate Quite Lot",
+                "4 - Begin History Us",
+                "5 - Sort Dog"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Take Personal Group",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Write Billion"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "api": "test.show.webapi",
+    "collection_path": "RandomFolderStructure/Universal Leadingedge Standardization/Spencer Group/Test.Show.WebApi/Collections/test.show.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Interesting Indeed Serious Effort",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Recent Forget",
+                "1 - Receive Structure She Evidence",
+                "2 - Position",
+                "3 - Plant Summer",
+                "4 - Few Republican Job",
+                "5 - Cut Card",
+                "6 - Line Truth"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Particularly Tend Management Major Foot System",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Possible Fall Film",
+                "1 - Participant Glass Hard",
+                "2 - Color Truth From",
+                "3 - Wife Smile"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

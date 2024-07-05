@@ -1,0 +1,32 @@
+{
+    "api": "test.specific.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Davis, George And Hernandez/Test.Specific.WebApi/Collections/test.specific.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Some Three Too Oil Already",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Born Evidence Already"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "General Drop Carry",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Financial Factor",
+                "1 - Teach Name Easy",
+                "2 - Tax Name Forward",
+                "3 - Story"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

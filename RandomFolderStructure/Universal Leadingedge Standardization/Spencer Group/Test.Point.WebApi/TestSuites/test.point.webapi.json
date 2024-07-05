@@ -1,0 +1,57 @@
+{
+    "api": "test.point.webapi",
+    "collection_path": "RandomFolderStructure/Universal Leadingedge Standardization/Spencer Group/Test.Point.WebApi/Collections/test.point.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Campaign Foreign Upon Office",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - There Conference",
+                "1 - Yeah Practice",
+                "2 - Drive Any"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Brother Picture Happen Never Movement",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Out Operation",
+                "1 - Green Dinner",
+                "2 - Defense Attorney",
+                "3 - Lawyer Past Chance",
+                "4 - Republican Four",
+                "5 - Then Pull Player",
+                "6 - Address Cold",
+                "7 - Might West Ball",
+                "8 - Mouth Him Green"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "General Home Operation",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Race Many Through",
+                "1 - Real Toward",
+                "2 - Field",
+                "3 - Yourself Employee Commercial",
+                "4 - Girl Protect",
+                "5 - Rather Pm Game",
+                "6 - Check Star",
+                "7 - Represent Might The",
+                "8 - Across Sing Between",
+                "9 - Special"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

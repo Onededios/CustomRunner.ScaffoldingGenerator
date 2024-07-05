@@ -1,0 +1,61 @@
+{
+    "api": "test.family.webapi",
+    "collection_path": "RandomFolderStructure/Phased Encompassing Access/Lewis, Phillips And Murphy/Test.Family.WebApi/Collections/test.family.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Will View Data My",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Democratic Real Professional",
+                "1 - Remember Beyond"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Economic Bed Kind Group Be Give",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - This Capital Focus",
+                "1 - Toward Woman",
+                "2 - Why",
+                "3 - Wide Whatever Cost",
+                "4 - Imagine Worker Often",
+                "5 - Election Recent Top",
+                "6 - Tell Movement Assume",
+                "7 - Challenge Left Behind"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Parent Question Area",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Form Bring Ground",
+                "1 - Coach Body Station",
+                "2 - Stock World Several"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Or How Garden",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Into",
+                "1 - Food Group Until",
+                "2 - Cultural",
+                "3 - Keep Clear Safe",
+                "4 - Day Million Big"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

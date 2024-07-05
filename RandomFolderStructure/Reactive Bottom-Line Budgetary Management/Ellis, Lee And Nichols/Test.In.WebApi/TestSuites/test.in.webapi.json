@@ -1,0 +1,41 @@
+{
+    "api": "test.in.webapi",
+    "collection_path": "RandomFolderStructure/Reactive Bottom-Line Budgetary Management/Ellis, Lee And Nichols/Test.In.WebApi/Collections/test.in.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Everyone Sense Stage Discuss",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Bed Difficult Common Exist",
+                "1 - Maybe Others First",
+                "2 - Suggest Bank",
+                "3 - Democrat Sure Society",
+                "4 - And Deep",
+                "5 - Different Cultural Away",
+                "6 - Local Market"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Heart Major Enter Company High",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Cost Ahead",
+                "1 - Fish Give",
+                "2 - Industry",
+                "3 - Dinner Development Let",
+                "4 - For Machine Meet",
+                "5 - Wait Unit Idea",
+                "6 - Movement Option Hospital"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

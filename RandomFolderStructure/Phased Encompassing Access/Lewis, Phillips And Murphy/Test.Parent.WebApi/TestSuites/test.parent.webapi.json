@@ -1,0 +1,25 @@
+{
+    "api": "test.parent.webapi",
+    "collection_path": "RandomFolderStructure/Phased Encompassing Access/Lewis, Phillips And Murphy/Test.Parent.WebApi/Collections/test.parent.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Space Yourself Where It",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Find Assume Likely",
+                "1 - Only Already Wide",
+                "2 - Standard Season Attorney",
+                "3 - Get Probably Relationship",
+                "4 - Door Computer Body",
+                "5 - Tell Yet"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

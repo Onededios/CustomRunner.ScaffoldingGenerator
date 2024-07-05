@@ -1,0 +1,23 @@
+{
+    "api": "test.grow.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Stewart, Lewis And Costa/Test.Grow.WebApi/Collections/test.grow.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Staff Behavior Agreement Something",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Whatever Question",
+                "1 - Spring Course West",
+                "2 - Rule Give",
+                "3 - Lose Interview"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

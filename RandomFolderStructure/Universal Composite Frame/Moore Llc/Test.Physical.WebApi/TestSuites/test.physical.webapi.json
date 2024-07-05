@@ -1,0 +1,46 @@
+{
+    "api": "test.physical.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Moore Llc/Test.Physical.WebApi/Collections/test.physical.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Collection Film Fly Conference North Herself",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Audience Perhaps Me",
+                "1 - Challenge However Occur",
+                "2 - Even Voice Pressure",
+                "3 - More Compare Dark",
+                "4 - Stage Rather",
+                "5 - Himself Figure Pick",
+                "6 - Writer Us Entire",
+                "7 - Left Family Start",
+                "8 - Democrat Stay"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Similar Leg Crime Condition",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Radio Nice Day",
+                "1 - Worry Likely",
+                "2 - Official",
+                "3 - National Defense Guess",
+                "4 - Nation Them I",
+                "5 - Author Imagine",
+                "6 - Case Today",
+                "7 - Others Strong Sport Change",
+                "8 - Place Life",
+                "9 - Maintain Society"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

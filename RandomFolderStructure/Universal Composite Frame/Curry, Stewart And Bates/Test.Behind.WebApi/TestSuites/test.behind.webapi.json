@@ -1,0 +1,20 @@
+{
+    "api": "test.behind.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Curry, Stewart And Bates/Test.Behind.WebApi/Collections/test.behind.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Small Attack Man Medical Card Writer",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Whether Manage"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "api": "test.smile.webapi",
+    "collection_path": "RandomFolderStructure/Phased Encompassing Access/Little And Sons/Test.Smile.WebApi/Collections/test.smile.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Film Particularly Among Common Owner",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Simply Box",
+                "1 - Order Almost",
+                "2 - Next Too Assume Style",
+                "3 - Change Teacher Push",
+                "4 - Interest Order Follow",
+                "5 - Performance Individual"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Picture Unit Recent Method Sign Lawyer",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Home Game Positive",
+                "1 - Letter Detail",
+                "2 - Teacher Might Test",
+                "3 - Grow Include",
+                "4 - Life Later Process Economy",
+                "5 - General This"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Arm True Mean Prove Model",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Pick Leader Those",
+                "1 - Support Upon",
+                "2 - Interesting Indeed",
+                "3 - Eye At Ability",
+                "4 - Our Political",
+                "5 - Enjoy Movement Whose",
+                "6 - Really Affect"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Either Federal Full",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Eat Speech But",
+                "1 - Evening Into Another",
+                "2 - Street Student Will",
+                "3 - Although Prepare"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

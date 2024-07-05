@@ -1,0 +1,54 @@
+{
+    "api": "test.include.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Cooper, Reynolds And White/Test.Include.WebApi/Collections/test.include.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Myself Room Statement",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Money Increase",
+                "1 - Expert Three Thank",
+                "2 - Yet Rise Arrive Report",
+                "3 - Seem Day",
+                "4 - Important Writer Coach",
+                "5 - The Expert Score",
+                "6 - Table Everybody Other",
+                "7 - Help Anything During"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Major Green Hope Open Clearly Break",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Two Successful Many Threat",
+                "1 - Green Commercial",
+                "2 - Necessary Choose",
+                "3 - Foot College Behavior Stuff",
+                "4 - Upon Prove When Many",
+                "5 - Under Several"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Break Half By",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Level Whatever",
+                "1 - None Card American",
+                "2 - Under Window",
+                "3 - Crime Candidate Power",
+                "4 - Mother Imagine Certainly"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

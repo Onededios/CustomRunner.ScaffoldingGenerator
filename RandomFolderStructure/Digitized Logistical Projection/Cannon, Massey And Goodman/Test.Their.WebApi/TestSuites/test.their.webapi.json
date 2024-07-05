@@ -1,0 +1,65 @@
+{
+    "api": "test.their.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Cannon, Massey And Goodman/Test.Their.WebApi/Collections/test.their.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Per Team Republican",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Defense Everyone Road"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Leg Hope Training Apply Success",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - About Hard Politics",
+                "1 - Business Key Suffer",
+                "2 - Factor Gas Voice",
+                "3 - Current",
+                "4 - Science",
+                "5 - Bed Difficult Common Exist",
+                "6 - Hope Cost",
+                "7 - Like Risk",
+                "8 - Family Least",
+                "9 - My Perform That"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Debate Sea Three Administration",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Beautiful Position Environment"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Doctor Measure Positive Way Century",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Agreement Stay Technology Begin",
+                "1 - May Positive",
+                "2 - Each",
+                "3 - Less Bar",
+                "4 - Hair Republican",
+                "5 - Fill Production",
+                "6 - Class Certainly",
+                "7 - Tv Majority",
+                "8 - Administration Difference Buy Finally",
+                "9 - Eye At Ability"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "api": "test.quite.webapi",
+    "collection_path": "RandomFolderStructure/Open-Architected Foreground Leverage/Lopez Group/Test.Quite.WebApi/Collections/test.quite.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Difficult Contain Son None",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Piece Some",
+                "1 - Good Shoulder",
+                "2 - Because Attention Rule No",
+                "3 - Republican Capital Single",
+                "4 - Suddenly In Small",
+                "5 - Rate Language Democratic",
+                "6 - Hot Mission Plan",
+                "7 - Stop",
+                "8 - Some Nature"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Paper Upon Method",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Give Accept",
+                "1 - Turn Need",
+                "2 - Eight Paper Find Range",
+                "3 - Bill Available",
+                "4 - Either Audience",
+                "5 - Describe Bad",
+                "6 - Eye Early",
+                "7 - Age Assume Just"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Lot Dinner Beyond Whether Mind",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Car Voice Else Learn",
+                "1 - Blood Identify Truth Operation",
+                "2 - Project Mention",
+                "3 - Range Artist Note",
+                "4 - Whose Seven",
+                "5 - Scientist True"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Nearly Crime Best Mrs Director",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Growth Control",
+                "1 - Different Late Build",
+                "2 - Camera Natural Fact",
+                "3 - One",
+                "4 - Goal Challenge"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

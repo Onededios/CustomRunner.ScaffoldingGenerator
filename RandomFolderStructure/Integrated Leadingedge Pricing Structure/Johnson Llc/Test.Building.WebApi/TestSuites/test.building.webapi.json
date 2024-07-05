@@ -1,0 +1,77 @@
+{
+    "api": "test.building.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Johnson Llc/Test.Building.WebApi/Collections/test.building.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Federal Form Enough Value",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Table Protect",
+                "1 - Itself Response Accept",
+                "2 - Allow Particular Face",
+                "3 - Husband Music Citizen Dream",
+                "4 - Become Son",
+                "5 - Process How",
+                "6 - Answer Month Despite",
+                "7 - Agree Remain Thank Total"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Blue Surface Accept Morning Lose",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Red Cell",
+                "1 - Marriage Ability",
+                "2 - Her Girl",
+                "3 - Significant",
+                "4 - Party Type",
+                "5 - Guy Follow",
+                "6 - You Fear Some",
+                "7 - Catch Boy",
+                "8 - Model Score Daughter Me"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Modern Energy President Buy Onto",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Avoid Camera",
+                "1 - Company Part Too",
+                "2 - Enter Majority",
+                "3 - Case Culture Many",
+                "4 - Movement Thought",
+                "5 - Total Claim Away",
+                "6 - Generation Reality Theory"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "He Relate Friend Structure Guess Work",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Term Treat Trade",
+                "1 - Hundred Whom Car",
+                "2 - Five",
+                "3 - Along Carry Feel",
+                "4 - Like Week",
+                "5 - Probably Detail",
+                "6 - Begin History Us",
+                "7 - Produce Cultural Your",
+                "8 - Soon Test Central",
+                "9 - Machine Teach Argue"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "api": "test.at.webapi",
+    "collection_path": "RandomFolderStructure/Open-Architected Foreground Leverage/Lopez Group/Test.At.WebApi/Collections/test.at.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Often Model Early Professor Pm",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Bag Perhaps",
+                "1 - Know Edge",
+                "2 - Bed Camera",
+                "3 - Star Network"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Item Provide Performance Eye Speech Reflect Hour",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Trial Science List"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Both Born Wonder",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Direction Wonder",
+                "1 - Threat Trial Approach",
+                "2 - Also Gas",
+                "3 - Prevent Own Finally",
+                "4 - Family Increase Effect",
+                "5 - Job Job",
+                "6 - City Cause Choice",
+                "7 - Third Idea",
+                "8 - Anything Can Structure",
+                "9 - Relate Various"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "api": "test.to.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Hamilton And Sons/Test.To.WebApi/Collections/test.to.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Power Which Loss Executive",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Store Coach New",
+                "1 - Protect Town Stock",
+                "2 - Watch Prevent Indicate",
+                "3 - Teach",
+                "4 - Surface Until Least",
+                "5 - Plan Care Concern",
+                "6 - Their Opportunity"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Person Growth Surface Understand Go Gun",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Expert Fish",
+                "1 - Parent Discover Gas",
+                "2 - Week",
+                "3 - Stock Find Which",
+                "4 - Prove Movement",
+                "5 - Him Me Adult",
+                "6 - Total Provide Nature",
+                "7 - Human Girl",
+                "8 - Society Road Join"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

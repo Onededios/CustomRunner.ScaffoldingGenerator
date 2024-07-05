@@ -1,0 +1,67 @@
+{
+    "api": "test.story.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Murphy-King/Test.Story.WebApi/Collections/test.story.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Care Old Add Decision Out Physical",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Among Series",
+                "1 - Finally"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Responsibility Respond Take",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Student Site Role",
+                "1 - Half Line At Television",
+                "2 - Build Ahead Fire",
+                "3 - Husband Stock"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Want Catch Unit",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - His Character Great Live",
+                "1 - Alone Any Financial",
+                "2 - Option Level",
+                "3 - Store Apply Different",
+                "4 - Oil Somebody",
+                "5 - Her",
+                "6 - Away Discuss Happen",
+                "7 - Nor Never Also Some"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Few Republican Job Collection Serious",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Teach Effect Little",
+                "1 - Be Reach",
+                "2 - Yourself Range",
+                "3 - Admit Similar",
+                "4 - Arm Work Chair",
+                "5 - Check Research Blood",
+                "6 - Add Group",
+                "7 - Lay Usually",
+                "8 - Choose Official Number",
+                "9 - Although Than Degree Short"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

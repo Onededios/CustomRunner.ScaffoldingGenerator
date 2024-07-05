@@ -1,0 +1,26 @@
+{
+    "api": "test.war.webapi",
+    "collection_path": "RandomFolderStructure/Reactive Bottom-Line Budgetary Management/Ellis, Lee And Nichols/Test.War.WebApi/Collections/test.war.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Then Ability Teach",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Per Various Training",
+                "1 - Notice Baby Stage",
+                "2 - Recently Determine",
+                "3 - Past Central Note",
+                "4 - Consumer Into",
+                "5 - Both Worker Wrong",
+                "6 - Point Style"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

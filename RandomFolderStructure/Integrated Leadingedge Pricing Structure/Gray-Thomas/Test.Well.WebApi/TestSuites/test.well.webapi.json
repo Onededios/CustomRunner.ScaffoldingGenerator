@@ -1,0 +1,68 @@
+{
+    "api": "test.well.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Gray-Thomas/Test.Well.WebApi/Collections/test.well.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Animal Nation Begin My Soldier Shake",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Visit Hope",
+                "1 - Practice Product",
+                "2 - School Foreign Newspaper"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Money Above Realize Beat",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - South Strong Message Month",
+                "1 - Resource Air",
+                "2 - Throw Good Trip",
+                "3 - Learn Hot Radio",
+                "4 - Here Individual"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Man Live Miss",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Suffer People",
+                "1 - Forget Hard",
+                "2 - A Last",
+                "3 - Recognize Model",
+                "4 - Church Score Beyond",
+                "5 - Although Design Set",
+                "6 - Crime Play Economic Report",
+                "7 - Difference White",
+                "8 - Only Single Particularly",
+                "9 - Director Last"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "You The Great",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Be Nearly Ready",
+                "1 - Final Already Individual",
+                "2 - Power Country Court",
+                "3 - Drive Hospital Set",
+                "4 - None From",
+                "5 - Deep Practice Artist",
+                "6 - Many Support Hotel"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

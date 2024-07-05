@@ -1,0 +1,56 @@
+{
+    "api": "test.defense.webapi",
+    "collection_path": "RandomFolderStructure/Open-Architected Foreground Leverage/Burns, Anthony And Padilla/Test.Defense.WebApi/Collections/test.defense.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Church Box Anything Against List Answer",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Stock Would Medical",
+                "1 - Second Nice",
+                "2 - Poor Culture Situation"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Friend Ever Doctor",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Blood Live",
+                "1 - Win Strategy Pressure Yet",
+                "2 - Turn Generation",
+                "3 - Go Second Eat",
+                "4 - Night Story",
+                "5 - Contain Make Though",
+                "6 - Tv Fear Seek Scene",
+                "7 - Party",
+                "8 - Field"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Culture Court White East Other",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Know Us Education",
+                "1 - Themselves",
+                "2 - Provide Environmental Up",
+                "3 - Source Part",
+                "4 - Use Story Rate",
+                "5 - Key Miss",
+                "6 - Prevent Administration Likely",
+                "7 - Entire Participant See",
+                "8 - Whether Suddenly"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

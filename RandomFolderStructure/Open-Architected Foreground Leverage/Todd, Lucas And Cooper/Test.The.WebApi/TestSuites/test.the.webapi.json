@@ -1,0 +1,66 @@
+{
+    "api": "test.the.webapi",
+    "collection_path": "RandomFolderStructure/Open-Architected Foreground Leverage/Todd, Lucas And Cooper/Test.The.WebApi/Collections/test.the.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Adult Strong Hand",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Treatment Explain Center",
+                "1 - Instead Red",
+                "2 - Behavior Herself",
+                "3 - Since Free"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Newspaper Dinner Despite Local",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Truth A",
+                "1 - Thus Heart Responsibility",
+                "2 - Despite Task Relationship",
+                "3 - Wide Cover",
+                "4 - Quickly Involve",
+                "5 - Marriage Include",
+                "6 - Book Here",
+                "7 - Child Book",
+                "8 - Benefit Stuff"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Such Relationship Usually",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Article Himself School"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Nothing Something Become Should Will",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Across Because",
+                "1 - Fast",
+                "2 - Car Them",
+                "3 - Rule",
+                "4 - Blue",
+                "5 - Seat Member American Interest",
+                "6 - Design Also",
+                "7 - Miss She",
+                "8 - Participant From President"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

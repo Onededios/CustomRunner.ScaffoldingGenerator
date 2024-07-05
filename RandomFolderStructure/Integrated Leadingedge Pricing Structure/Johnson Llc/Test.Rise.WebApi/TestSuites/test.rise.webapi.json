@@ -1,0 +1,59 @@
+{
+    "api": "test.rise.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Johnson Llc/Test.Rise.WebApi/Collections/test.rise.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Follow Although Right",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Keep Stock Teacher",
+                "1 - Prevent Administration Likely",
+                "2 - Parent Candidate It",
+                "3 - Dream Debate Just",
+                "4 - Administration Rather Music Special",
+                "5 - Degree Need",
+                "6 - Car Bill Note",
+                "7 - Window Be Down"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Decide General Establish Less",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Prove Shake",
+                "1 - Cultural",
+                "2 - Rest Network East",
+                "3 - Voice Not What",
+                "4 - Ready Free",
+                "5 - In Off",
+                "6 - Land Wife Kind"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Throw Feeling Door Power",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Military Yes",
+                "1 - Pick Figure",
+                "2 - Everyone Run Maybe",
+                "3 - Best Politics If",
+                "4 - Computer Since Success",
+                "5 - Set A",
+                "6 - Get Phone Decade",
+                "7 - Sense Artist",
+                "8 - State Drop Myself"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

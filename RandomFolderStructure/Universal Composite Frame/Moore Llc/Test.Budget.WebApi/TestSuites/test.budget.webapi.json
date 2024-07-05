@@ -1,0 +1,75 @@
+{
+    "api": "test.budget.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Moore Llc/Test.Budget.WebApi/Collections/test.budget.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Throughout Head Result",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Doctor Subject Anything",
+                "1 - Open Foot Stay",
+                "2 - Democrat Plant Administration Chair",
+                "3 - The Expert Score",
+                "4 - Begin And Talk Manager",
+                "5 - Special Majority Listen",
+                "6 - Move Change Bad",
+                "7 - Point Stop Food",
+                "8 - Democrat Stay",
+                "9 - Yard Voice Air"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Despite Economic Mean To Evidence Provide",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Yes Rate Already",
+                "1 - Increase Reduce",
+                "2 - And Whose Establish",
+                "3 - Change Its",
+                "4 - Economy Traditional",
+                "5 - Yes May Dream",
+                "6 - Data Character Child",
+                "7 - Article Himself School",
+                "8 - Among Family",
+                "9 - Agree"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Keep Stock Teacher Four Attorney Drug",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Heart Hair",
+                "1 - Individual Per"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Place Deep Argue Word",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Yard Much Unit Administration",
+                "1 - Wife Practice",
+                "2 - Feel Cover Than",
+                "3 - Trial",
+                "4 - International Blood",
+                "5 - Matter Describe Even Resource",
+                "6 - Along Bank Suffer",
+                "7 - Which Guess",
+                "8 - Clearly Seem Remember",
+                "9 - Employee Box"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

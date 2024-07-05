@@ -1,0 +1,32 @@
+{
+    "api": "test.lot.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Hamilton And Sons/Test.Lot.WebApi/Collections/test.lot.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Concern Leader Safe Trade",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Shake Share Position"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Pressure Goal Argue Control Budget Hard",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Represent Debate",
+                "1 - Natural Laugh Window",
+                "2 - Window Assume Know",
+                "3 - Home Physical Remember"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

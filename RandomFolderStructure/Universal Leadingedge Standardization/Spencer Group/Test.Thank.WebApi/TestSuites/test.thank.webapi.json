@@ -1,0 +1,50 @@
+{
+    "api": "test.thank.webapi",
+    "collection_path": "RandomFolderStructure/Universal Leadingedge Standardization/Spencer Group/Test.Thank.WebApi/Collections/test.thank.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Record Finish Color",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Show Work",
+                "1 - Middle Health"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Personal Certainly Either Who Recognize Understand",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Computer Since Success"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Accept School Attention Different Level",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Few Place Check",
+                "1 - Market Radio Several",
+                "2 - Network Week Agree"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Current Key Reveal Issue Perhaps",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Source President"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

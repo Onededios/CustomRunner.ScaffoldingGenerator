@@ -1,0 +1,54 @@
+{
+    "api": "test.somebody.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Davis, George And Hernandez/Test.Somebody.WebApi/Collections/test.somebody.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Red Gun Article",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Western Reason Surface",
+                "1 - Television Student",
+                "2 - Open Partner Policy Skin",
+                "3 - Draw Case Mean",
+                "4 - Coach Body Station",
+                "5 - Pick Figure",
+                "6 - Suddenly Media Local",
+                "7 - Unit Light Until"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Now Exist Production Media Heavy",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Friend Capital Future",
+                "1 - Parent Question",
+                "2 - Form Together Thus",
+                "3 - Short Difference",
+                "4 - Line",
+                "5 - Another Including Rise",
+                "6 - Game Few Impact Knowledge",
+                "7 - Health Officer Direction",
+                "8 - Very Behind Speech Hour"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Society Move Truth",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Strong Friend",
+                "1 - Think Coach"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

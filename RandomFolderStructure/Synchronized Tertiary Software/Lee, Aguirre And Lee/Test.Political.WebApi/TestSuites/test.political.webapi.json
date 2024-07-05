@@ -1,0 +1,28 @@
+{
+    "api": "test.political.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Lee, Aguirre And Lee/Test.Political.WebApi/Collections/test.political.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Memory Store Agent Positive Someone",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Expect Game",
+                "1 - Care Least",
+                "2 - Hair Feeling",
+                "3 - Which Fund Market",
+                "4 - Western",
+                "5 - Draw Case Mean",
+                "6 - Fall Girl",
+                "7 - Rather",
+                "8 - Bar Strong"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

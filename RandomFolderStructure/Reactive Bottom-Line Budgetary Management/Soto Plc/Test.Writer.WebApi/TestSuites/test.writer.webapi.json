@@ -1,0 +1,58 @@
+{
+    "api": "test.writer.webapi",
+    "collection_path": "RandomFolderStructure/Reactive Bottom-Line Budgetary Management/Soto Plc/Test.Writer.WebApi/Collections/test.writer.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Once Majority Rather Build",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Its Instead",
+                "1 - Stuff Law Month",
+                "2 - Response Whom",
+                "3 - Imagine Easy Down",
+                "4 - Discuss Stop Half",
+                "5 - Nice Bad Buy",
+                "6 - Need After Animal",
+                "7 - Between Produce Must",
+                "8 - Station Cold"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Building Learn Wrong Total City Each",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - President New Kind",
+                "1 - Father Meeting Team",
+                "2 - Toward Player",
+                "3 - Floor Attack",
+                "4 - Item Picture Recognize Low",
+                "5 - Score Money Kid",
+                "6 - Help"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Skill Information Attorney Energy Project Really",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Place Everyone",
+                "1 - Two",
+                "2 - Some Respond",
+                "3 - Recognize Model",
+                "4 - Model Local",
+                "5 - College Could Herself",
+                "6 - Cause South"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

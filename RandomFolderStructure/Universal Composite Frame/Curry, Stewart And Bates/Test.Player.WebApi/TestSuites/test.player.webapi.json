@@ -1,0 +1,27 @@
+{
+    "api": "test.player.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Curry, Stewart And Bates/Test.Player.WebApi/Collections/test.player.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Anything Both Office Say Owner Sure",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Market Authority Rich",
+                "1 - Itself Place",
+                "2 - Between Mind",
+                "3 - Hard Far Cause",
+                "4 - Remember Since",
+                "5 - Team Question Direction",
+                "6 - Treatment Run",
+                "7 - Themselves Anything"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

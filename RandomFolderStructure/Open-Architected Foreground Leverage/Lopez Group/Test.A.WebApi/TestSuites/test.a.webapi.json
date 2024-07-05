@@ -1,0 +1,40 @@
+{
+    "api": "test.a.webapi",
+    "collection_path": "RandomFolderStructure/Open-Architected Foreground Leverage/Lopez Group/Test.A.WebApi/Collections/test.a.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Safe Street Appear",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Chair Answer Protect",
+                "1 - War Effect",
+                "2 - Speech Teach Treatment",
+                "3 - Law Consumer Present",
+                "4 - Every Thought Risk Training",
+                "5 - Knowledge Yeah",
+                "6 - Especially Yeah Stay",
+                "7 - Sort Spend Perhaps"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Back Prepare Game",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Poor Music Vote",
+                "1 - Understand Argue",
+                "2 - Religious",
+                "3 - Open Player",
+                "4 - Technology"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "api": "test.avoid.webapi",
+    "collection_path": "RandomFolderStructure/Open-Architected Foreground Leverage/Burns, Anthony And Padilla/Test.Avoid.WebApi/Collections/test.avoid.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Message Available Hope Be Need At",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Letter Detail",
+                "1 - Cup Mrs Population"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Believe Seek Feel Who",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Majority Open Specific Stock",
+                "1 - Magazine Room",
+                "2 - Message However",
+                "3 - But",
+                "4 - Event More",
+                "5 - Table Rock Provide"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Expect Game Data",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Factor International",
+                "1 - Another Notice Arrive",
+                "2 - Turn Certain Stop",
+                "3 - Within Because",
+                "4 - Nothing Exist",
+                "5 - Central Option Garden",
+                "6 - Against Those Use",
+                "7 - Image Look Responsibility",
+                "8 - Among Beyond",
+                "9 - American Market"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Mrs Idea Often Up Person",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Tend First Old",
+                "1 - Federal Such"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

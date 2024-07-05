@@ -1,0 +1,28 @@
+{
+    "api": "test.why.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Stewart, Lewis And Costa/Test.Why.WebApi/Collections/test.why.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Theory South Wind Age Most Sister",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - National Most",
+                "1 - Tell Whose",
+                "2 - Space Yourself",
+                "3 - According Walk Themselves",
+                "4 - Report",
+                "5 - Half",
+                "6 - Across Feeling Fish",
+                "7 - Act Present Attorney",
+                "8 - Child Let Avoid"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

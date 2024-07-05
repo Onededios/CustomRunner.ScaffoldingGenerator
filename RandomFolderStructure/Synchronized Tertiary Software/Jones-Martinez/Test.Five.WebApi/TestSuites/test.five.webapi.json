@@ -1,0 +1,50 @@
+{
+    "api": "test.five.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Jones-Martinez/Test.Five.WebApi/Collections/test.five.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Value Chair Technology Past Spend However",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Live Office",
+                "1 - Star Like Series",
+                "2 - Night Sure",
+                "3 - Effort Woman",
+                "4 - Beyond Should",
+                "5 - Condition Catch Wonder Movement"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Program Officer Measure Tough Institution Able",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Region Agreement",
+                "1 - Remain During"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Stand Sing High Study",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Firm Force American",
+                "1 - Likely Hot",
+                "2 - House Case Exactly",
+                "3 - Single",
+                "4 - Some Model Good",
+                "5 - Send When",
+                "6 - Attention"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

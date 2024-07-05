@@ -1,0 +1,25 @@
+{
+    "api": "test.but.webapi",
+    "collection_path": "RandomFolderStructure/Reactive Bottom-Line Budgetary Management/Soto Plc/Test.But.WebApi/Collections/test.but.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Suffer Available Mrs",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Give Dinner Statement",
+                "1 - Involve Agree Blue",
+                "2 - Piece Just",
+                "3 - Onto Mr",
+                "4 - Kitchen Break",
+                "5 - Consumer Between Gun Should"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

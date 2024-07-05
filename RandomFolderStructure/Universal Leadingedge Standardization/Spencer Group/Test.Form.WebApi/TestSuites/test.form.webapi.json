@@ -1,0 +1,30 @@
+{
+    "api": "test.form.webapi",
+    "collection_path": "RandomFolderStructure/Universal Leadingedge Standardization/Spencer Group/Test.Form.WebApi/Collections/test.form.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Plan Society Different",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Audience Beat"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Suddenly Unit Win Official Responsibility Back",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Move Audience",
+                "1 - Pass Manager"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

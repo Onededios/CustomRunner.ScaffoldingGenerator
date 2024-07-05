@@ -1,0 +1,21 @@
+{
+    "api": "test.none.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Stewart, Lewis And Costa/Test.None.WebApi/Collections/test.none.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Much The Their Certain",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Partner Without Somebody",
+                "1 - Produce Cultural Your"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "api": "test.board.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Harrison-Delgado/Test.Board.WebApi/Collections/test.board.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Life Nothing Data She Hotel",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Matter Ok News Four"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Office Bar Prepare Stand Artist",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Red Take"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Look Site Seem Bed Push",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Bed",
+                "1 - Red Take",
+                "2 - Raise Reality",
+                "3 - My",
+                "4 - Option Finally",
+                "5 - Never Social",
+                "6 - Sound Side Such"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Same Even Always Foreign",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Director Politics Art"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

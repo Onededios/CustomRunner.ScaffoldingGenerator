@@ -1,0 +1,38 @@
+{
+    "api": "test.air.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Johnson Inc/Test.Air.WebApi/Collections/test.air.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Soon Act Industry Tax",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Bad Mrs Use",
+                "1 - Writer",
+                "2 - Tree This Third",
+                "3 - Simply",
+                "4 - Fill"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Their Memory End Both Particularly",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - A Value",
+                "1 - Side Book",
+                "2 - Southern Role",
+                "3 - Kitchen Break",
+                "4 - Would Ground Front",
+                "5 - Fight Evidence Loss"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

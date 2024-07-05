@@ -1,0 +1,66 @@
+{
+    "api": "test.ask.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Davis, George And Hernandez/Test.Ask.WebApi/Collections/test.ask.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Bar Here Level Society",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Play",
+                "1 - Guess Too",
+                "2 - Air Occur",
+                "3 - Try Soldier Artist Long",
+                "4 - Imagine Center",
+                "5 - Certainly Tax",
+                "6 - Modern Magazine"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Ok Air Option Girl While Church",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Now Name",
+                "1 - Sign Laugh Industry",
+                "2 - Fire",
+                "3 - Service Television Film",
+                "4 - Hair Data",
+                "5 - Onto Yard Wind Young",
+                "6 - Want Catch"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Way Will Fall College",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Likely Kind Traditional",
+                "1 - Side Which Force Question",
+                "2 - Bad Lot Baby",
+                "3 - Light Expect Dinner",
+                "4 - Chance",
+                "5 - Argue Game",
+                "6 - Share Behavior Environment",
+                "7 - Discover Common Save"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Clearly Plan They",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Beyond Themselves Ready"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

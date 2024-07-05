@@ -1,0 +1,25 @@
+{
+    "api": "test.girl.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Mejia-Garza/Test.Girl.WebApi/Collections/test.girl.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Campaign Fine Late",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Doctor Subject Anything",
+                "1 - Dog Join",
+                "2 - About Stock",
+                "3 - Per Send",
+                "4 - Speech General She",
+                "5 - Garden Tell Value"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "api": "test.energy.webapi",
+    "collection_path": "RandomFolderStructure/Phased Encompassing Access/Johnson-Skinner/Test.Energy.WebApi/Collections/test.energy.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Natural Become Forget Memory",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Because Interview",
+                "1 - Window Thus Activity",
+                "2 - List Travel",
+                "3 - You Fear Some"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Mean Table Blood Cultural",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - A Pattern",
+                "1 - Authority Go",
+                "2 - Sure Effort",
+                "3 - White Off Subject",
+                "4 - Record Still",
+                "5 - Job Area Finally",
+                "6 - Student Nearly Especially",
+                "7 - Account Thousand Account Evening"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Hundred Open Teacher",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Myself Half Large",
+                "1 - Half Record",
+                "2 - School Himself",
+                "3 - Race Ago Sport Pattern",
+                "4 - Interview"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "City Cause Choice Other Catch Million",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Matter Various Point",
+                "1 - Authority Go",
+                "2 - Paper Loss Painting Performance",
+                "3 - Hope Kid May",
+                "4 - Prevent"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

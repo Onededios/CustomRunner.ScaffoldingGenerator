@@ -1,0 +1,23 @@
+{
+    "api": "test.special.webapi",
+    "collection_path": "RandomFolderStructure/Phased Encompassing Access/Little And Sons/Test.Special.WebApi/Collections/test.special.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Future Each Her",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Piece Tree",
+                "1 - Support Congress Participant",
+                "2 - Whether Parent Fill",
+                "3 - Thus Heart Responsibility"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

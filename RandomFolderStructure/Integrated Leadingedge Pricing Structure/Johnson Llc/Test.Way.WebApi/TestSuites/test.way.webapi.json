@@ -1,0 +1,64 @@
+{
+    "api": "test.way.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Johnson Llc/Test.Way.WebApi/Collections/test.way.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Speech Language Success Leader Weight",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Free Wide Western",
+                "1 - Idea Have"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Security These Oil Week Usually",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Above Onto",
+                "1 - Memory Attack",
+                "2 - Bank Three",
+                "3 - Seem Situation"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Big Blue Expect House Play Attack",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - It Myself Baby",
+                "1 - Hit Including You",
+                "2 - One Want Why",
+                "3 - Information Former",
+                "4 - Myself Fear Want",
+                "5 - Case",
+                "6 - Up Change",
+                "7 - Agent Study Yourself",
+                "8 - I Feeling Father",
+                "9 - Water Sometimes"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Will Sport Put Address Nation Firm",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Stuff Week",
+                "1 - Meeting Risk Agency",
+                "2 - Individual Without Scientist",
+                "3 - Same Service Blue Themselves",
+                "4 - Get Drop Main"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

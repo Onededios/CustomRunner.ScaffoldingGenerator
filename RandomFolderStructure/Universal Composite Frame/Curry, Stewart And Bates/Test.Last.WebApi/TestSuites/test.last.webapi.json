@@ -1,0 +1,44 @@
+{
+    "api": "test.last.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Curry, Stewart And Bates/Test.Last.WebApi/Collections/test.last.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Across Because Time Family",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Although Design Set",
+                "1 - Resource Old Nearly",
+                "2 - Phone Plant",
+                "3 - Well Account Watch",
+                "4 - True",
+                "5 - Speak Work Including Hundred",
+                "6 - Tax Shoulder Morning",
+                "7 - Million Company"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "College Size Himself Stand No",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Or Design",
+                "1 - Entire Wish Beat",
+                "2 - Tend Measure",
+                "3 - Quickly Involve",
+                "4 - According National Impact",
+                "5 - Series Sure Everybody",
+                "6 - Bad Mrs Use",
+                "7 - Water Sometimes",
+                "8 - Nearly Why Summer"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

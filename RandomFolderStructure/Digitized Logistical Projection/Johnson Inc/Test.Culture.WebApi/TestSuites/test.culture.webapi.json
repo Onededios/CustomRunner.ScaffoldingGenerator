@@ -1,0 +1,36 @@
+{
+    "api": "test.culture.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Johnson Inc/Test.Culture.WebApi/Collections/test.culture.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "First Federal Kitchen Set Low",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Feel Cover Than",
+                "1 - Message Ahead Service",
+                "2 - Local Bit Baby",
+                "3 - Every",
+                "4 - Stay Wrong Large",
+                "5 - Moment Crime Allow Old",
+                "6 - Friend Produce",
+                "7 - Staff Official Practice"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Rule Give Agree",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Night Police Team Certain"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

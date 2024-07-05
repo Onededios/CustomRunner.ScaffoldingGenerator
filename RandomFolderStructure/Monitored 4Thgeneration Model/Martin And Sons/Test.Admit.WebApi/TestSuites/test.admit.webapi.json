@@ -1,0 +1,66 @@
+{
+    "api": "test.admit.webapi",
+    "collection_path": "RandomFolderStructure/Monitored 4Thgeneration Model/Martin And Sons/Test.Admit.WebApi/Collections/test.admit.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Next Director Range Office Officer",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Something Writer",
+                "1 - Throughout",
+                "2 - He Market Structure",
+                "3 - Cut Common",
+                "4 - Rock Increase Political",
+                "5 - Red Only",
+                "6 - Black She Second",
+                "7 - Human Of",
+                "8 - Edge Key"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Realize Information Deep Cover",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Receive Structure She Evidence",
+                "1 - Man Financial"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Marriage Include Police Right",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Current Quality",
+                "1 - Father Worker Thing Along",
+                "2 - Candidate National"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Whole Easy Follow",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Prevent Nor",
+                "1 - Seek Remain",
+                "2 - Provide Hair Major",
+                "3 - Send Newspaper Choice",
+                "4 - Or Finally Charge",
+                "5 - Single",
+                "6 - Process Another",
+                "7 - Especially Feeling",
+                "8 - Season Good"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

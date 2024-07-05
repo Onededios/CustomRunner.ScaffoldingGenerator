@@ -1,0 +1,20 @@
+{
+    "api": "test.interesting.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Cabrera, Proctor And Hess/Test.Interesting.WebApi/Collections/test.interesting.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Test With Before Everybody Look",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Notice Agent"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

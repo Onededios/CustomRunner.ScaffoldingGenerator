@@ -1,0 +1,49 @@
+{
+    "api": "test.call.webapi",
+    "collection_path": "RandomFolderStructure/Integrated Leadingedge Pricing Structure/Johnson Llc/Test.Call.WebApi/Collections/test.call.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Teach Effect Little Accept Pattern Partner",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Mother Learn Decade",
+                "1 - Actually Wife Floor",
+                "2 - Shoulder Goal",
+                "3 - Position This",
+                "4 - Part Might Speech",
+                "5 - Color Late Behind",
+                "6 - Where Need Same",
+                "7 - Discover Raise",
+                "8 - Teach Certain"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Group Kid Beat",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Use Main"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "See Trial Newspaper",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Animal Do Respond",
+                "1 - Rather Pm Game",
+                "2 - Local See Movie",
+                "3 - Blood Black"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

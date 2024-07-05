@@ -1,0 +1,39 @@
+{
+    "api": "test.relationship.webapi",
+    "collection_path": "RandomFolderStructure/Universal Composite Frame/Cabrera, Proctor And Hess/Test.Relationship.WebApi/Collections/test.relationship.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Candidate Yeah Wrong Up College Through",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - State Reveal",
+                "1 - Ok Difference Garden",
+                "2 - Practice Perform Ask",
+                "3 - Follow Nation Indicate",
+                "4 - Car Social Only",
+                "5 - Reflect When Parent",
+                "6 - Rich Decade",
+                "7 - Wish Pay Traditional",
+                "8 - Expert Attorney"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Series Foot Course Poor Truth Go",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Reality Pass Wonder",
+                "1 - Level Though",
+                "2 - Per"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

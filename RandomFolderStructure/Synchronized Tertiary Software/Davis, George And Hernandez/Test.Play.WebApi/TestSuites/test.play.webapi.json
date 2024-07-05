@@ -1,0 +1,67 @@
+{
+    "api": "test.play.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Davis, George And Hernandez/Test.Play.WebApi/Collections/test.play.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Minute Low Maintain",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Before Phone Example",
+                "1 - Prevent Nor",
+                "2 - Pattern May",
+                "3 - Without Movement",
+                "4 - Scientist Poor",
+                "5 - Situation Yourself Economy",
+                "6 - Recent Involve From",
+                "7 - Dog Provide Type"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Responsibility Respond Take",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Responsibility Dream",
+                "1 - Here Choice Site",
+                "2 - Support Technology Majority"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Herself Discuss Finally Goal",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Bar Down Wide",
+                "1 - Speech Trip",
+                "2 - Fight East Between",
+                "3 - Morning Character",
+                "4 - Discover Common Save",
+                "5 - Southern If"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Man Good Show",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Serve",
+                "1 - Campaign Property Break",
+                "2 - Answer",
+                "3 - Single Modern Too",
+                "4 - West Drug Production",
+                "5 - Republican Special",
+                "6 - Responsibility Show Moment"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

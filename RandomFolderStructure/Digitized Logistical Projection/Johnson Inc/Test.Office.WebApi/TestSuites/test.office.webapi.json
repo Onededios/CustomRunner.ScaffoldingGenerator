@@ -1,0 +1,77 @@
+{
+    "api": "test.office.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Johnson Inc/Test.Office.WebApi/Collections/test.office.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Hard Local Trade Station Board Rise",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Push Yes",
+                "1 - Impact Try",
+                "2 - Western President Success Voice",
+                "3 - Late Recent Even",
+                "4 - Themselves Price Plant",
+                "5 - Several Deep",
+                "6 - Page Technology Do Chance",
+                "7 - Fill Yeah",
+                "8 - Care Environmental Mouth"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Foreign Magazine Participant Yeah Key Away",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Particularly Employee Window",
+                "1 - Pick Detail",
+                "2 - Trip Pull Many",
+                "3 - Structure Best Risk",
+                "4 - Party History",
+                "5 - Building Himself",
+                "6 - Present Reduce Water",
+                "7 - Teach",
+                "8 - Reason Paper"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Position Understand Reason Group Green",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Religious Some As",
+                "1 - Produce Owner Huge",
+                "2 - My Push",
+                "3 - Country Federal",
+                "4 - Country Huge Forget",
+                "5 - Provide Hair Major",
+                "6 - Environment Serve Office",
+                "7 - Note",
+                "8 - Energy Range Service"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Wonder Strong Speak Condition Economy",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Whatever Identify",
+                "1 - Arrive Page Itself",
+                "2 - Staff Likely",
+                "3 - Decade Firm Chance",
+                "4 - Fish Method Reach",
+                "5 - Station Church",
+                "6 - Often Talk Question"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

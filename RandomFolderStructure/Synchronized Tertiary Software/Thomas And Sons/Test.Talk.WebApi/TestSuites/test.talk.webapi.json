@@ -1,0 +1,27 @@
+{
+    "api": "test.talk.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Thomas And Sons/Test.Talk.WebApi/Collections/test.talk.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Father Difficult Exist Guess Hope",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Type Respond Line So",
+                "1 - Loss Miss",
+                "2 - Interesting Chance Technology",
+                "3 - Stage Nothing",
+                "4 - Hair Line Rather Throw",
+                "5 - Amount",
+                "6 - Check Bar Support",
+                "7 - Among Small"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

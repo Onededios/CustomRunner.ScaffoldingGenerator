@@ -1,0 +1,63 @@
+{
+    "api": "test.nature.webapi",
+    "collection_path": "RandomFolderStructure/Advanced Explicit Utilization/Williamson, Bernard And Kaufman/Test.Nature.WebApi/Collections/test.nature.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Enough Writer Production Always Stage",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Government Police Pull",
+                "1 - Yeah Development Learn"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "History Carry Statement Middle Avoid",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Benefit Physical Class",
+                "1 - Appear Game",
+                "2 - Person Head Child",
+                "3 - Certain Point",
+                "4 - Protect Mean",
+                "5 - Professor Upon Decision",
+                "6 - Assume Soon Plant",
+                "7 - Spring Admit"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Fact Traditional Suffer Example Rock",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Community Teacher",
+                "1 - Religious Respond Old",
+                "2 - Federal Beat",
+                "3 - Own Size",
+                "4 - Help",
+                "5 - Firm Only",
+                "6 - Eat Score Market",
+                "7 - Old Fund Member",
+                "8 - Be Laugh"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Step Movie Fear Bar",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Determine Once Should"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

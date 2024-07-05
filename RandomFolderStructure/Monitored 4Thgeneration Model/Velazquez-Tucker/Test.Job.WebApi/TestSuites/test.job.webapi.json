@@ -1,0 +1,34 @@
+{
+    "api": "test.job.webapi",
+    "collection_path": "RandomFolderStructure/Monitored 4Thgeneration Model/Velazquez-Tucker/Test.Job.WebApi/Collections/test.job.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Risk Forget National Culture",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Want Strategy Money",
+                "1 - Task East Bar Its",
+                "2 - Floor Find"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Threat Cup Might Economic Something",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Not Night",
+                "1 - Out Operation",
+                "2 - Environment Himself",
+                "3 - Entire Wish Beat"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "api": "test.property.webapi",
+    "collection_path": "RandomFolderStructure/Monitored 4Thgeneration Model/Velazquez-Tucker/Test.Property.WebApi/Collections/test.property.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Per Attention Employee",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Professor Couple Conference Necessary",
+                "1 - Purpose Clearly",
+                "2 - Group Drug Finish",
+                "3 - Study Should",
+                "4 - Oil Education Across",
+                "5 - Whatever Throw Lawyer",
+                "6 - Time Kind",
+                "7 - Evening Better"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Theory Ready Down Husband",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Hospital Throughout Address Why",
+                "1 - Care Old Add",
+                "2 - Water Agree"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Mind Resource Serve Level Similar Worker",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Station Do Arrive Deep",
+                "1 - Season Good",
+                "2 - Political Increase",
+                "3 - Event As",
+                "4 - Husband Among Shake"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Eye Offer Like Current Big Mouth",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Rate",
+                "1 - Professor Whether Wish",
+                "2 - Move Coach",
+                "3 - Long Oil Foreign",
+                "4 - Bit Will Together"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

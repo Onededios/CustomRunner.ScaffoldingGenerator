@@ -1,0 +1,58 @@
+{
+    "api": "test.director.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Lee, Aguirre And Lee/Test.Director.WebApi/Collections/test.director.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Clearly Discussion Church Government Friend Term Western",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - School Foreign Newspaper",
+                "1 - Whatever Then",
+                "2 - College Light",
+                "3 - Local Project Show"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Federal Meet Must",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Behavior Several Increase Thing"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Baby Increase They",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Section Service",
+                "1 - Call Reach Social",
+                "2 - Anything Might",
+                "3 - Half Fight",
+                "4 - Final Growth Catch",
+                "5 - There Analysis",
+                "6 - Team Or",
+                "7 - Air Adult",
+                "8 - Town Station Former"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Yourself At Face Election Assume Somebody",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Show Surface Such"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

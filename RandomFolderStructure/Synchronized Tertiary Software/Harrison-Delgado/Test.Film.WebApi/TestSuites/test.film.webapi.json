@@ -1,0 +1,29 @@
+{
+    "api": "test.film.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Harrison-Delgado/Test.Film.WebApi/Collections/test.film.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Star Ever Office Break Idea Accept",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Rich Kid Fund",
+                "1 - Hit",
+                "2 - Meeting Scientist",
+                "3 - Put Away",
+                "4 - Run",
+                "5 - Actually Cover",
+                "6 - Try Rich",
+                "7 - Small Enough Husband",
+                "8 - Pass Single Beautiful Product",
+                "9 - Ever Campaign"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

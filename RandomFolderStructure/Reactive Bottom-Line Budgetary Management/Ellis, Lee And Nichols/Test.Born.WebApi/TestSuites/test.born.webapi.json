@@ -1,0 +1,25 @@
+{
+    "api": "test.born.webapi",
+    "collection_path": "RandomFolderStructure/Reactive Bottom-Line Budgetary Management/Ellis, Lee And Nichols/Test.Born.WebApi/Collections/test.born.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Around Simple Finish",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Certain Accept Laugh",
+                "1 - Trade",
+                "2 - Benefit Upon",
+                "3 - Interview Arm Relate",
+                "4 - Late Chance",
+                "5 - Institution Test Price"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

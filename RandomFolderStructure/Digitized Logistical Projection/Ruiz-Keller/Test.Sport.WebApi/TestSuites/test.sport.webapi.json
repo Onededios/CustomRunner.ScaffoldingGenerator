@@ -1,0 +1,76 @@
+{
+    "api": "test.sport.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Ruiz-Keller/Test.Sport.WebApi/Collections/test.sport.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Energy Range Service Pm Southern",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Drive Situation Answer",
+                "1 - Test Minute Animal Treatment",
+                "2 - Myself Wind",
+                "3 - Glass",
+                "4 - Billion Drug",
+                "5 - Add Gun Impact",
+                "6 - Man Stuff",
+                "7 - Staff Write"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Wonder Reduce Organization",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Surface Test",
+                "1 - Hotel Student Yeah",
+                "2 - Explain Age",
+                "3 - Purpose Partner How Recently",
+                "4 - We Represent Chair",
+                "5 - Buy Evening Dark",
+                "6 - Politics Table",
+                "7 - Call Realize Likely",
+                "8 - Per Finish Fact",
+                "9 - Full Difficult"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Understand Various Hand",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Always Cover",
+                "1 - Number Cup",
+                "2 - Write Better Else",
+                "3 - Produce High Bag Economic",
+                "4 - Leg Hope Training",
+                "5 - Drive Situation Answer"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Ever Apply Hit Test",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Realize Policy Close Experience",
+                "1 - Team",
+                "2 - Condition Mind Face",
+                "3 - Suggest Many",
+                "4 - Campaign Traditional Dream",
+                "5 - Newspaper",
+                "6 - Born With Start",
+                "7 - Old Other Color",
+                "8 - Rest Think Or"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "api": "test.prove.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Jones-Martinez/Test.Prove.WebApi/Collections/test.prove.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Save Year Short My Serve",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Kid Movement Hope",
+                "1 - Term Opportunity Behind",
+                "2 - Produce Material Weight"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Position This Heavy Surface",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Face Goal Owner"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "A Who Military More",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - It Cause Customer",
+                "1 - Stage Call",
+                "2 - Blood Stand Thus",
+                "3 - Person Happen",
+                "4 - Individual"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Program Adult Statement Majority",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - You Remember",
+                "1 - Clearly Discussion Church Government"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

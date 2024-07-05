@@ -1,0 +1,51 @@
+{
+    "api": "test.language.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Ruiz-Keller/Test.Language.WebApi/Collections/test.language.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Against Money Head Never Particular Remember",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Tree This Third",
+                "1 - Best Smile",
+                "2 - Bank Step",
+                "3 - Together Store",
+                "4 - Detail",
+                "5 - Voice Our Energy"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "General Home Operation",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Traditional According"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Strategy Career Firm Grow",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Majority City",
+                "1 - Idea",
+                "2 - Modern Model Place",
+                "3 - Suffer First Any Special",
+                "4 - Defense The Travel",
+                "5 - Cultural Me Live",
+                "6 - Various Start Fly Laugh",
+                "7 - Participant Page",
+                "8 - Lose Me"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

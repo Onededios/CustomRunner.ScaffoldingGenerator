@@ -1,0 +1,35 @@
+{
+    "api": "test.view.webapi",
+    "collection_path": "RandomFolderStructure/Monitored 4Thgeneration Model/Velazquez-Tucker/Test.View.WebApi/Collections/test.view.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Well Account Watch Figure Project Back",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Huge Suddenly Day",
+                "1 - Sell Million Outside"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Environment Direction Give Above Plan",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Thus Score",
+                "1 - Ready Free",
+                "2 - End Model Anything",
+                "3 - Although Prepare",
+                "4 - School Central",
+                "5 - Three"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

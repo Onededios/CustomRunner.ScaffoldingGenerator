@@ -1,0 +1,49 @@
+{
+    "api": "test.have.webapi",
+    "collection_path": "RandomFolderStructure/Synchronized Tertiary Software/Lee, Aguirre And Lee/Test.Have.WebApi/Collections/test.have.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Arrive On Relationship Important Dinner",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Ability Town"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Kind Hear Mind Station",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Audience",
+                "1 - Prevent Nor",
+                "2 - Understand Girl Soldier",
+                "3 - Hospital Hear"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Case Quality Price Culture Health Direction",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Movement School",
+                "1 - Go",
+                "2 - Above Onto",
+                "3 - Case Whole Prepare Finish",
+                "4 - Decision Within A",
+                "5 - Perhaps Leader",
+                "6 - Free",
+                "7 - Skin Begin Mention",
+                "8 - A Last"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "api": "test.everyone.webapi",
+    "collection_path": "RandomFolderStructure/Monitored 4Thgeneration Model/Moore-Martinez/Test.Everyone.WebApi/Collections/test.everyone.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Let Range Catch View Politics Attorney",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Left Upon Myself",
+                "1 - Peace Ahead Those",
+                "2 - College Never Be",
+                "3 - Hope Stay Wall",
+                "4 - Single Page Accept",
+                "5 - Poor"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

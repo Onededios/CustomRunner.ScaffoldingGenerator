@@ -1,0 +1,62 @@
+{
+    "api": "test.action.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Cannon, Massey And Goodman/Test.Action.WebApi/Collections/test.action.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Ask Commercial Machine",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Fact Traditional Suffer"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Law Share Yes Loss Sister Spring",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Front Writer Identify Politics",
+                "1 - Hundred Bed Human",
+                "2 - Traditional Interview Song",
+                "3 - Feel Six",
+                "4 - Former Can Itself"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Wear Star Success",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - May Career Score",
+                "1 - Market Radio Several",
+                "2 - Product Democratic Early Discuss",
+                "3 - Local Enjoy Blood"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Bad Admit Poor Somebody Culture We",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Sign Human",
+                "1 - Nothing Save Consider",
+                "2 - Address Clear Real",
+                "3 - National Most",
+                "4 - Happen Computer Never",
+                "5 - Various Each",
+                "6 - Start Including Student",
+                "7 - Partner So",
+                "8 - Fear Morning Student"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

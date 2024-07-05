@@ -1,0 +1,20 @@
+{
+    "api": "test.direction.webapi",
+    "collection_path": "RandomFolderStructure/Advanced Explicit Utilization/Hardin Ltd/Test.Direction.WebApi/Collections/test.direction.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Final Development Campaign On",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Future Can High"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

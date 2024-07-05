@@ -1,0 +1,63 @@
+{
+    "api": "test.race.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Ruiz-Keller/Test.Race.WebApi/Collections/test.race.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Mr Democratic Street",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Friend Very Form Bed",
+                "1 - Magazine Effort Thank Color",
+                "2 - Grow Field",
+                "3 - Specific Sometimes",
+                "4 - Culture",
+                "5 - Politics Remain",
+                "6 - Sure Bad Lead",
+                "7 - Concern Leader",
+                "8 - Treatment Fast Enough",
+                "9 - Significant"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Whether Suddenly Church Physical",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Maintain Measure Better Then",
+                "1 - Blue Increase Bad",
+                "2 - Scene Relationship",
+                "3 - Themselves Without",
+                "4 - Off First Happen",
+                "5 - Record Large",
+                "6 - Most Skill",
+                "7 - Of",
+                "8 - Baby Stuff Student"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Talk Hair Three Realize Short Form",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Rate National",
+                "1 - Significant Common",
+                "2 - Rate Leader Win",
+                "3 - Attention Consider",
+                "4 - Environmental Parent Article",
+                "5 - Television Mention Between",
+                "6 - Trip Against Issue",
+                "7 - Might Represent Agency",
+                "8 - Himself Simple"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

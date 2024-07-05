@@ -1,0 +1,51 @@
+{
+    "api": "test.cold.webapi",
+    "collection_path": "RandomFolderStructure/Phased Encompassing Access/Lewis, Phillips And Murphy/Test.Cold.WebApi/Collections/test.cold.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Participant Trip Owner Senior",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Wish Believe Color",
+                "1 - Program Officer Measure",
+                "2 - Less Whose Trade",
+                "3 - Condition",
+                "4 - Onto Thought",
+                "5 - Consider Official Customer",
+                "6 - Able Option Top Main"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Style Consumer Your Create Provide",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Power Rather"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Father Purpose Couple Really",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Republican Side Form",
+                "1 - Model",
+                "2 - Every Model Age Walk",
+                "3 - Character Carry Produce Art",
+                "4 - Use Close",
+                "5 - Yeah Practice",
+                "6 - Resource Hour",
+                "7 - Guy Its"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}

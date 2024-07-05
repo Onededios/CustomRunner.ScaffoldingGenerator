@@ -1,0 +1,52 @@
+{
+    "api": "test.bed.webapi",
+    "collection_path": "RandomFolderStructure/Digitized Logistical Projection/Ruiz-Keller/Test.Bed.WebApi/Collections/test.bed.webapi.postman_collection.json",
+    "environment_path": {
+        "int": "",
+        "pre": "",
+        "pro": ""
+    },
+    "steps": [
+        {
+            "test_name": "Under Fact Voice This Space Through",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Majority Such Region"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "Indicate Commercial Behind",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Style Walk",
+                "1 - Firm Physical Voice",
+                "2 - Authority Fight Ten",
+                "3 - Research Piece Car",
+                "4 - But Process Else",
+                "5 - Drive",
+                "6 - Decade Plan Land"
+            ],
+            "extra_option_arguments": ""
+        },
+        {
+            "test_name": "At Class Each System",
+            "run_order": 0,
+            "data_files": [],
+            "folders": [
+                "0 - Laugh Provide",
+                "1 - Mean Table",
+                "2 - Image Thus Late Growth",
+                "3 - Fear I Kind Any",
+                "4 - Economic Marriage",
+                "5 - Doctor Rather Option",
+                "6 - Population She",
+                "7 - Wide Whatever Cost",
+                "8 - Study Money Company"
+            ],
+            "extra_option_arguments": ""
+        }
+    ]
+}
